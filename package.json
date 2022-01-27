@@ -1,7 +1,7 @@
 {
   "name": "react-intro-student",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome to the React Intro repo! This repo holds source files and branches to help get you up and running with React + Webpack.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack serve --port 3000",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "David",
   "license": "ISC",
   "dependencies": {
     "css-loader": "^6.5.1",
@@ -31,5 +31,13 @@
     "webpack": "^5.67.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7dunham22/react-intro-student.git"
+  },
+  "bugs": {
+    "url": "https://github.com/7dunham22/react-intro-student/issues"
+  },
+  "homepage": "https://github.com/7dunham22/react-intro-student#readme"
 }
